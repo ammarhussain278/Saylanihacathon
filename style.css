@@ -1,0 +1,142 @@
+.main {
+  height: 100%;
+  width: 100%;
+  background-color: white;
+}
+.hero {
+  height: 100vh;
+  width: 100%;
+
+}
+.navbar {
+  height: 200px;
+  width: 100%;
+ 
+
+}
+.navbar1 {
+  height: 50px;
+  width: 100%;
+  background-color: purple;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  text-transform: uppercase;
+}
+.navbar2 {
+  height: 60px;
+  width: 100%;
+  
+  display: flex;
+  justify-content: space-between;
+}
+.navbar2-first {
+  height: 100%;
+  width: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  font-size: 20px;
+}
+.sales {
+  color: red;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.navbar2-second {
+  font-size: 30px;
+  
+  width: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 100px;
+
+}
+.navbar3-third {
+  text-transform: uppercase;
+  width: 600px;
+  display: flex;
+  justify-content: space-around;
+ 
+  align-items: center;
+}
+.radius{
+    height: 20px;
+    width: 20px;
+    border-radius: 20px;
+    background-color: white;
+    text-align: center;
+    border: 1px solid black;
+
+}
+.navbar-third{
+    height: 50px;
+    width: 100%;
+background-color: lightgrey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.navbar-under{
+   display: flex;
+   justify-content: space-around ;
+  width: 30%;
+  
+
+}
+.men{
+    margin-right: 10px;
+}
+.men:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.women{
+    margin-right: 10px;
+}
+.women:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.arrival:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.card{
+  
+    width: 100%;
+    height: 800px;
+    background-image: url(https://render.fineartamerica.com/images/images-profile-flow/400/images-medium-large/love-skye-zambrana.jpg);
+}
+.heading{
+    width: 45%;
+    font-size: 40px;
+    color: white;
+    margin-left: 100px;
+}
+.para{
+  color: white;
+  width: 30%;
+  font-size: 20px;
+  margin-left: 100px;
+}
+.button{
+  margin-left: 100px;
+  margin-top: 450px;
+
+}
+
+button{
+  height: 50px;
+  width: 100px;
+}
+button:hover{
+  background-color: black;
+  cursor: pointer;
+  color: white;
+}
+
